@@ -1,5 +1,6 @@
 ---
-role: Master of AI security
+role: Master Student
+avatar_filename: wo-2-.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
