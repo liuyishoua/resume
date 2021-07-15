@@ -1,6 +1,6 @@
 ---
 role: Master Student
-avatar_filename: wo-2-.jpg
+avatar_filename: ""
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
