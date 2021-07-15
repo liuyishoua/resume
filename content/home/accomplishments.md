@@ -26,7 +26,7 @@ item:
     organization_url: https://www.datacamp.com
     title: Object-Oriented Programming in R
     url: ""
-widget_id: smyis
+widget_id: a
 headless: true
 weight: 50
 title: Accomplish&shy;ments
@@ -34,5 +34,5 @@ subtitle: null
 design:
   columns: "2"
   background:
-    image: wo-2-.jpg
+    image: ""
 ---
