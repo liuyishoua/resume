@@ -40,8 +40,9 @@ title: Zhiyuan Liu
 email: ""
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My name is Zhiyuan Liu,a first-year master student studying cyberspace security at Hainan University.During my studies,l gradually become interested in Neural Networks and Computer Vision.After being advised by Prof.Chunjie Cao,l start enthusiastic about learning Adversarial Example.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I hope to get an internship opportunity for research work.Here is my resume.If the conditions permit,I hope to continue studying for a Ph.D. 
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resum{{< /staticref >}}.
