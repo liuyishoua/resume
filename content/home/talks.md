@@ -2,7 +2,7 @@
 widget: pages
 widget_id: talk
 weight: 70
-title: Recent & Upcoming Talks
+title: Awards
 subtitle: null
 content:
   page_type: event
