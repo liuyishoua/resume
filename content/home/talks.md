@@ -21,7 +21,7 @@ headless: true
 design:
   view: 2
 ---
-* Won the school's third-class scholarship three time
-* National inspirational scholarship won once
-* Passed in English CET-4 and CET-6
+* The school's scholarship three times
+* National inspirational scholarship
+* Passed  English CET-4 and CET-6
 * Prize of American College Student Mathematical Modeling Competition
