@@ -4,7 +4,6 @@ summary: 前端使用html+css，后端使用springboot框架设计，数据库�
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-<!-- external_link: "" -->
 
 links:
 - icon: copyright
