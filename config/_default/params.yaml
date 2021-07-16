@@ -33,7 +33,7 @@ address:
   country: China
 contact_links:
   - icon: copyright
-    icon_pack: fab
+    icon_pack: fas
     name: Follow me
     link: 'https://blog.csdn.net/weixin_41466575'
 
