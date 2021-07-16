@@ -31,26 +31,11 @@ address:
   city: Haikou
   region: Hainan
   country: China
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
 contact_links:
-  - icon: twitter
+  - icon: copyright
     icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    name: Follow me
+    link: 'https://blog.csdn.net/weixin_41466575'
 
 # Site header
 
