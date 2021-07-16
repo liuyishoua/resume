@@ -1,6 +1,6 @@
 ---
-title: 短视频购物app
-summary: 使用java开发，android端功能相当于抖音和淘宝的结合，服务器端使用springboot框架
+title: Short video shopping app
+summary: Using Java, the Android terminal is equivalent to the combination of Douyin and Taobao and the server terminal achieve by using SpringBoot Framework
 date: "2021-07-15T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
