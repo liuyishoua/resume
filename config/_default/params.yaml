@@ -7,7 +7,7 @@
 
 theme: minimal
 day_night: true
-font: 'Classic'
+font: ''
 font_size: L
 
 # theme: Earth
