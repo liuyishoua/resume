@@ -10,8 +10,8 @@ main:
   - name: Projects
     url: '#projects'
     weight: 30
-  - name: Talks
-    url: '#talks'
+  - name: Awards
+    url: '#awards'
     weight: 40
   - name: Contact
     url: '#contact'
