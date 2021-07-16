@@ -7,13 +7,13 @@
 
 theme: minimal
 day_night: true
-font: ''
-font_size: L
-
-theme: Earth
-day_night: true
 font: 'Classic'
 font_size: L
+
+# theme: Earth
+# day_night: true
+# font: 'Classic'
+# font_size: L
 
 # SEO
 
