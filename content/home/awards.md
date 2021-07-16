@@ -1,14 +1,19 @@
 ---
-widget: a
-widget_id: Awards
+# An instance of the Contact widget.
+# Documentation: https://sourcethemes.com/academic/docs/page-builder/
+widget: awards
+
+# This file represents a page section.
 headless: true
-weight: 0
-title: Awards
-active: true
+
+# Order that this section appears on the page.
+weight: 130
+
+title: awards
+subtitle:
+
+
+  
 design:
-  columns: "2"
-  background:
-    text_color_light: false
-    image_darken: 0
+  columns: '2'
 ---
-fsdfsadgsdag
