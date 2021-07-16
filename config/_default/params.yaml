@@ -10,6 +10,11 @@ day_night: true
 font: ''
 font_size: L
 
+theme: Apogee
+day_night: true
+font: ''
+font_size: L
+
 # SEO
 
 site_type: Person
