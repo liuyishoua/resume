@@ -10,9 +10,6 @@ main:
   - name: Projects
     url: '#projects'
     weight: 20
-  - name: Awards
-    url: '#awards'
-    weight: 30
   - name: Contact
     url: '#contact'
     weight: 40
