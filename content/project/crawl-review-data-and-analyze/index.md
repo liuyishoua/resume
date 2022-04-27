@@ -16,7 +16,7 @@ links:
     icon: <i class="fa-brands fa-github"></i>
     name: More detail
 image:
-  filename: review.png
+  filename: featured.png
   focal_point: SMART
   preview_only: false
 ---
