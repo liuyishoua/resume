@@ -32,8 +32,8 @@ abstract: Deep Neural Networks (DNNs) have been closely related to Pandora's Box
   series of experiments conducted on MNIST, CIFAR-10, CIFAR-100 and SVHN. In
   particular, we improve detection rates by a large margin on DeepFool and CW
   attacks.
-draft: false
-featured: false
+draft: true
+featured: true
 image:
   filename: featured
   focal_point: Smart
