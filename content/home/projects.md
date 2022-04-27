@@ -1,6 +1,6 @@
 ---
 widget: portfolio
-widget_id: project
+widget_id: pro
 headless: true
 weight: 2
 title: Projects
