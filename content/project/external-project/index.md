@@ -20,6 +20,7 @@ links:
     url: https://github.com/liuyishoua/predict_repeat_buy
 image:
   filename: featured.png
+  focal_point: Smart
 url_code: ""
 ---
 ## Introduction
