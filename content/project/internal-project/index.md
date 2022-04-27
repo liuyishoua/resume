@@ -18,7 +18,7 @@ links:
     name: More detail
     url: https://github.com/liuyishoua/shanghai_spatial_data_analysis
 image:
-  filename: region_distribution.png
+  filename: feature.jpg
   focal_point: CENTER
   preview_only: false
 url_code: ""
