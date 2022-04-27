@@ -33,7 +33,7 @@ abstract: Deep Neural Networks (DNNs) have been closely related to Pandora's Box
   particular, we improve detection rates by a large margin on DeepFool and CW
   attacks.
 draft: false
-featured: true
+featured: false
 image:
   filename: featured
   focal_point: Smart
