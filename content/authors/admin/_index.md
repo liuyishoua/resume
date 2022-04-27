@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:1813120647@qq.com
+    link: mailto:fyhvyhj@gmail.com
   - icon: copyright
     icon_pack: fas
     link: https://blog.csdn.net/weixin_41466575
