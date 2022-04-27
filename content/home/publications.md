@@ -17,4 +17,4 @@ design:
 
 * Status: reroll status.
 
-* ![More detail](http://).
+* [More detail](https://liuyishou.netlify.app/publication/from-spatial-to-spectral-domain-a-new-perspective-for-detecting-adversarial-examples/).
