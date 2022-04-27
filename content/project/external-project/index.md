@@ -14,7 +14,7 @@ external_link: https://liuyishou.netlify.app/project/external-project/
 url_slides: ""
 title: Predict repeat buy on e-commerce platforms
 links:
-  - icon: github
+  - icon: <i class="fa-brands fa-github"></i>
     icon_pack: fas
     name: More detail
     url: https://github.com/liuyishoua/predict_repeat_buy
