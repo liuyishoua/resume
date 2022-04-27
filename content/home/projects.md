@@ -2,10 +2,10 @@
 widget: portfolio
 widget_id: project
 headless: true
-weight: 100
+weight: 80
 title: Projects
 subtitle: ""
-active: false
+active: true
 design:
   columns: ""
   background:
