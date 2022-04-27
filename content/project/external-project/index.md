@@ -9,8 +9,8 @@ summary: >-
 
   <!--EndFragment-->
 url_video: ""
-date: 2019-04-27T00:00:00Z
-external_link: https://liuyishou.netlify.app/project/predict
+date: 2019-04-27T00:00:00.000Z
+external_link: https://liuyishou.netlify.app/project/external-project/
 url_slides: ""
 title: Predict repeat buy on e-commerce platforms
 links:
