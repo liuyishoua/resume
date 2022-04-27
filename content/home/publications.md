@@ -1,6 +1,6 @@
 ---
-widget: publications
-widget_id: publications
+widget: pages
+widget_id: publication
 headless: true
 weight: 5
 title: Publications
