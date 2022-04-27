@@ -6,5 +6,5 @@ weight: 5
 title: Contact
 subtitle: null
 design:
-  columns: "2"
+  columns: "1"
 ---
