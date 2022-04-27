@@ -19,7 +19,7 @@ links:
     name: More detail
     url: https://github.com/liuyishoua/predict_repeat_buy
 image:
-  filename: 4.png
+  filename: featured.png
 url_code: ""
 ---
 ## Introduction
