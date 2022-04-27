@@ -1,7 +1,7 @@
 ---
 widget: pages
 widget_id: talk
-weight: 70
+weight: 2
 title: Awards
 subtitle: null
 content:
