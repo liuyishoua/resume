@@ -1,7 +1,8 @@
 ---
-# Homepage
 type: widget_page
-
-# Homepage is headless, other widget pages are not.
+widget: publications
+widget_id: index
 headless: true
+weight: 80
+title: Publications
 ---
