@@ -9,16 +9,16 @@ summary: >
   detail, just click the button "More detail" below.
 draft: false
 featured: false
-external_link: https://liuyishou.netlify.app/project/crawl_review
+external_link: https://liuyishou.netlify.app/project/crawl-review-data-and-analyze/
 links:
   - url: https://github.com/liuyishoua/simple_data_analysis
     icon_pack: fas
-    icon: github
+    icon: <i class="fa-brands fa-github"></i>
     name: More detail
 image:
   filename: review.png
   focal_point: SMART
-  preview_only: true
+  preview_only: false
 ---
 ## 数据特征工程实战（简易版）
 
