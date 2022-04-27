@@ -1,6 +1,6 @@
 ---
 type: widget_page
-widget: portfolio
+widget: pages
 widget_id: publication
 headless: true
 weight: 6
