@@ -1,8 +1,8 @@
 ---
-widget: pages
+widget: publications
 widget_id: publications
 headless: true
-weight: 10
+weight: 6
 title: Publications
 active: true
 design:
