@@ -7,7 +7,7 @@ title: Projects
 subtitle: ""
 active: false
 design:
-  columns: "2"
+  columns: ""
   background:
     text_color_light: false
     image: ""
