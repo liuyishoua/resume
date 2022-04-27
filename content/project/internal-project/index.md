@@ -7,19 +7,20 @@ summary: A standard procedure to deal with the spatial data (the taxi data of
   taxi data from [上海市出租车数据集](http://www.cse.ust.hk/scrg/taxi.tar.gz) (a open
   source dataset).
 url_video: ""
-date: 2021-07-15T00:00:00Z
-external_link: https://liuyishou.netlify.app/project/OD_data
+date: 2021-07-15T00:00:00.000Z
+featured: false
+external_link: https://liuyishou.netlify.app/project/internal-project/
 url_slides: ""
 title: Shanghai taxi's od data analysis
 links:
-  - icon: github
+  - icon: <i class="fa-brands fa-github"></i>
     icon_pack: fas
     name: More detail
     url: https://github.com/liuyishoua/shanghai_spatial_data_analysis
 image:
   filename: region_distribution.png
   focal_point: CENTER
-  preview_only: true
+  preview_only: false
 url_code: ""
 ---
 # shanghai_spatial_data_analysis
@@ -58,8 +59,6 @@ If you can not install successfully, that must be the version conflict. So try t
 3. **Then, begin to learn according to the number's order of ipynb files. So let's begin from the shanghai_data_analysis_1.ipynb.**
 
 ## Figure show
-
-
 
 ![hour_count](hour_count.png)
 
