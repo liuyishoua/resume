@@ -21,7 +21,14 @@ headless: true
 design:
   view: 2
   columns: ""
+  background:
+    color: "#ffffff"
+    text_color_light: false
+    image: ""
 ---
+* Received the first-class scholarship
 * National inspirational scholarship
 * Passed  English CET-4 and CET-6
-* Prize of American College Student Mathematical Modeling Competition
+* Won the 2nd prize of the Blue Bridge Cup Provincial Competition
+* Won the 2nd prize of the team in the ladder competition
+* Csdn technology blogger, published nearly 100 original articles, the highest   real-time ranking is about 4000
