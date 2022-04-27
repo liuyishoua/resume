@@ -15,7 +15,7 @@ links:
     icon_pack: fas
     icon: <i class="fa-brands fa-github"></i>
 image:
-  filename: 对比图.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
