@@ -31,4 +31,3 @@ design:
 * Passed  English CET-4 and CET-6
 * Won the 2nd prize of the Blue Bridge Cup Provincial Competition
 * Won the 2nd prize of the team in the ladder competition
-* Csdn technology blogger, published nearly 100 original articles, the highest   real-time ranking is about 4000
