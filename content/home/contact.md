@@ -1,19 +1,23 @@
 ---
-# An instance of the Contact widget.
-# Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: contact
-
-# This file represents a page section.
+widget_id: Contact
 headless: true
-
-# Order that this section appears on the page.
-weight: 130
-
+weight: 3
 title: Contact
-subtitle:
-
-
-  
+subtitle: null
 design:
-  columns: '2'
+  columns: "1"
 ---
+<!--StartFragment-->
+
+* [1813120647@qq.com](mailto:1813120647@qq.com)
+
+
+
+* Sanxi Road, Haikou, Hainan
+
+
+
+* [Follow me](https://blog.csdn.net/weixin_41466575)
+
+<!--EndFragment-->
