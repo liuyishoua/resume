@@ -8,16 +8,16 @@ summary: When you want to learn something from paper, the whole white background
   framework.
 draft: false
 featured: false
-external_link: https://liuyishou.netlify.app/project/paper_colorful
+external_link: https://liuyishou.netlify.app/project/a-tool-to-make-paper-more-colorful/
 links:
   - url: https://github.com/liuyishoua/paper_with_image
     name: More detail
     icon_pack: fas
-    icon: github
+    icon: <i class="fa-brands fa-github"></i>
 image:
   filename: 对比图.jpg
   focal_point: Smart
-  preview_only: true
+  preview_only: false
 ---
 ## 论文个性化系统
 
