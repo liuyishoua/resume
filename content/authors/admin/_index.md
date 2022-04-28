@@ -36,4 +36,4 @@ My name is Zhiyuan Liu, a first-year master student studying cyberspace security
 
 I hope to get an internship opportunity to prove my worth in practice. Of course, money is also crucial. If the conditions permit, I hope to continue studying for a Ph.D. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://github.com/liuyishoua/resume/blob/master/assets/media/%E5%88%98%E5%BF%97%E8%BF%9C-%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86.pdf" "newtab" >}}resume{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://github.com/liuyishoua/resume/blob/master/assets/media/%E5%BA%94%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E8%81%8C%E4%BD%8D-%E6%9A%91%E5%81%87%E5%AE%9E%E4%B9%A0-%E5%88%98%E5%BF%97%E8%BF%9C%20.pdf" "newtab" >}}resume{{< /staticref >}}.
